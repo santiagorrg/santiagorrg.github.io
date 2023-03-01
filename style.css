@@ -1,0 +1,80 @@
+
+h3,li,p{
+    font-family: 'Crimson Pro', serif;
+}
+
+#DNAR{
+    padding-top: 90px;
+    font-size: 30px;
+}
+
+
+h2{
+    font-family: 'Crimson Text', serif;
+    padding-top: 50px;
+}
+
+
+.container{
+    margin-left:20px;
+}
+
+.navegacion{
+    font-size: 25px;
+}
+
+#ferreteria{
+height: 400px;
+width: 400px;
+margin: -382px 0px 0px 850px;
+}
+
+#upe{
+    height: 400px;
+width: 400px;
+margin: -860px 0px 0px 850px;
+}
+
+#inclusiva{
+    height: 200px;
+    width: 200px;
+    margin: -250px 0px 0px 950px;
+
+}
+
+#perfil{
+    height: 330px;
+    width: 300px;
+    margin-left: 89.500px;
+    margin-right: 89.500px;
+}
+
+
+#subtitulo{
+    margin-top: 40px;
+}
+
+.body{
+    padding: 0px 20px 0px 20px;
+}
+
+#contacto{
+    display: flex;
+    padding-left: 25%;
+    justify-content:space-between
+}
+
+#vias{
+    padding-left: 25%;
+}
+
+#contacto2{
+    display: flex;
+    
+    justify-content:space-between;
+}
+#vias2{
+    display: flex;
+    justify-content: center;
+    
+     }
