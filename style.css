@@ -1,0 +1,58 @@
+
+#DNAR{
+    padding-top: 45px;
+    font-size: 30px;
+}
+
+h2{
+    font-family: 'DM Serif Display', serif;
+    padding-top: 50px;
+}
+
+h3{
+    font-family: 'DM Serif Display', serif;
+}
+
+
+p{
+    font-family: 'Crimson Pro', serif;
+}
+
+.container{
+    margin-left:20px;
+}
+
+.navegacion{
+    font-size: 25px;
+}
+
+.subtitulo{
+    display: flex;
+    justify-content: center;
+}
+
+#contacto{
+    display: flex;
+    padding-left: 40%;
+    
+    justify-content:space-around;
+    
+}
+
+#vias{
+    padding-left: 25%;
+}
+
+
+#vdc{
+    margin-left: 36%;
+} 
+    
+a{
+    text-decoration: none;
+}
+
+#lista{
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
